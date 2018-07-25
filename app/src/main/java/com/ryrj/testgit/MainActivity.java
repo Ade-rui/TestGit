@@ -15,4 +15,8 @@ public class MainActivity extends AppCompatActivity {
     private void fun1(){
         Toast.makeText(this, "fun1()", Toast.LENGTH_SHORT).show();
     }
+
+    private void fun2(){
+        Toast.makeText(this, "fun2()", Toast.LENGTH_SHORT).show();
+    }
 }
